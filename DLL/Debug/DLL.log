@@ -1,0 +1,11 @@
+﻿  matrix_operations.c
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.c(4,71): warning C4273: 'matrix_addition': inconsistent dll linkage
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.h(20,21): message : see previous definition of 'matrix_addition'
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.c(12,74): warning C4273: 'matrix_subtraction': inconsistent dll linkage
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.h(21,21): message : see previous definition of 'matrix_subtraction'
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.c(20,93): warning C4273: 'matrix_multiplication': inconsistent dll linkage
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.h(22,21): message : see previous definition of 'matrix_multiplication'
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.c(31,64): warning C4273: 'matrix_transpose': inconsistent dll linkage
+C:\Users\Jyothi\source\repos\DLL\matrix_operations.h(23,21): message : see previous definition of 'matrix_transpose'
+     Creating library C:\Users\Jyothi\source\repos\DLL\Debug\DLL.lib and object C:\Users\Jyothi\source\repos\DLL\Debug\DLL.exp
+  DLL.vcxproj -> C:\Users\Jyothi\source\repos\DLL\Debug\DLL.dll
